@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharthSan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science Engineering
-- 📫 My phone no:- 9766176850
+- 📫 My Email ID - siddharth.sandeep13@gmail.com
 
 <!---
 SiddharthSan/SiddharthSan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
